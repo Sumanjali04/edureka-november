@@ -1,0 +1,126 @@
+body{
+    margin:auto;
+    background-color:white;
+}
+#header{
+    height: 60px;
+    background-color:plum;
+
+}
+#icon{
+    margin-left: 1%;
+    margin-top: -1%;
+    position: absolute;
+    color:black;
+}
+#social{
+    float: right;
+    margin-right: 1%;
+}
+a{
+    text-decoration: none;
+}
+.slogo{
+    height: 50px;
+    width:50px;
+}
+
+.text{
+    text-align:center;
+    font-size:30px;
+    color:rgb(247, 8, 167) ;
+    font-weight: bold;
+}
+#listingcontainer{
+    width:80%;
+    height:800px;
+    margin-left:10%;
+}
+.filters{
+    width:20%;
+    height:600px;
+    border:2px solid purple;
+    float:left;
+    margin-top: 3%;
+
+}
+.content{
+    width:74%;
+    height:750px;
+    float:left;
+    margin-left:5%;
+}
+#deco{
+    text-align:center;
+    color:teal;
+    font-size:30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#dec{
+    text-align:center;
+    color:purple;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.de{
+    font-family:fantasy;
+    margin-left:10%;
+}
+.contentbox{
+    height:250px;
+    width:100%;
+    border: 2px solid gray;
+    margin-top: 4%;
+    
+}
+.imagecontent > img{
+    width:30%;
+    height:150px;
+    float:left;
+    border-radius:10%;
+    
+}
+.hotelname{
+    float:left;
+    text-align: center;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 2%;
+    margin-left: 100px;
+    color:salmon;
+}
+.hoteladdress{
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 80px;
+
+
+}
+.rating{
+    margin-top: 10px;
+    margin-left: 40%;
+    font-weight: bold;
+}
+.cost{
+    margin-top: 10px;
+    margin-left: 40%;
+    font-weight: bold;
+}
+.line{
+    margin-top:3%;
+    color: black;
+}
+.type{
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 10px;
+}
+.hours{
+    margin-top: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+
+
